@@ -1,2 +1,14 @@
 # scorelejing-archive
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
